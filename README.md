@@ -1,3 +1,7 @@
+# Archived
+
+This project's support has been ceased. No future fixes or pull requests are planned.
+
 # Web connected relay with Particle Photon
 Web connected relay built with Particle Photon
 
